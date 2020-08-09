@@ -3,5 +3,5 @@ Entity/Schema/Service & Action Generator is used to generate entity/schema/servi
 
 NOTE : As of now tested for only MySQL database. TO DO, need further enhancement for yaml resource generator.
 
-
+based on https://github.com/channaveer/EntityGenerator
 Happy Coding!
